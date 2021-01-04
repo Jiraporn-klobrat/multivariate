@@ -8,7 +8,7 @@
 
 ( ) parentheses
 
-![logokku](https://drive.google.com/drive/u/0/folders/19HvoMXjVN6wZwleR4-XXO65OOWnOgotc.png)
+![logokku](https://drive.google.com/file/d/1zbo29Rdi3sC24530tEquCgE6k0xQXuGs/view?usp=sharing.png)
 
 อธิบายการใช้งาน Github และ Google colab ว่าหน้าที่ของแต่ละอันคืออะไรและอธิบายวิธีเซฟไฟล์จาก Google colab ลงใน Github
 
